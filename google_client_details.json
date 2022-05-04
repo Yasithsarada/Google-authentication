@@ -1,0 +1,13 @@
+{
+    "web": {
+        "client_id": "590771054750-acfkefcoisuhe5u2vhrucn3mp8ervj3j.apps.googleusercontent.com",
+        "project_id": "theta-cider-346411",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost:8040/auth/google/callback"
+        ]
+    }
+}
